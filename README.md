@@ -1,3 +1,14 @@
+
+<!-- ![alt text](https://github.com/AgosBC/agosbc/blob/main/gitimg.png?raw=true) -->
+
+<p align="center">
+  <img src="gitimg.png" width="1120" title="hover text">
+  
+</p>
+
+
+
+
 - :computer: Technologies I use: Java, SpringBoot, MySQL
 - 🌱 I’m currently learning Java at ADA ITW and working on my "first" API REST
 - :book: I'm self-taught person with a great deal of hobbies
@@ -22,6 +33,11 @@
 <img align="left" alt="vscode" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/vscode.svg" height="48"/>
 
 
+
+
+
+
+<img src="https://raw.githubusercontent.com/AgosBC/agosbc/main/gitimgr.jpg?raw=true" />>
 
 <br />
 
