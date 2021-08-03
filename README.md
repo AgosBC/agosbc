@@ -2,7 +2,7 @@
 <!-- ![alt text](https://github.com/AgosBC/agosbc/blob/main/gitimg.png?raw=true) -->
 
 <p align="center">
-  <img src="gitimg.png" width="1120" title="hover text">
+  <img src="banner.png" width="1120" title="hover text">
   
 </p>
 
@@ -17,6 +17,10 @@
 ## contact me
 
  [![Linkedin: agosbarello](https://img.shields.io/badge/-AgosBarello-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/agostina-barello-5b9059177/)](https://www.linkedin.com/in/agostina-barello-5b9059177/)
+ 
+
+
+
 
 
 <!--
@@ -38,6 +42,8 @@
 
 
 <img src="https://raw.githubusercontent.com/AgosBC/agosbc/main/gitimgr.jpg?raw=true" />>
+
+
 
 <br />
 
