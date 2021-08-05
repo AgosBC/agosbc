@@ -2,7 +2,7 @@
 <!-- ![alt text](https://github.com/AgosBC/agosbc/blob/main/gitimg.png?raw=true) -->
 
 <p align="center">
-  <img src="banner.png" width="1120" title="hover text">
+  <img src="https://github.com/AgosBC/agosbc/blob/main/banner.png" width="1120" title="hover text">
   
 </p>
 
