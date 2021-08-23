@@ -16,7 +16,7 @@
 - :argentina: Buenos Aires
 ## contact me
 
- [![Linkedin: agosbarello](https://img.shields.io/badge/-AgosBarello-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/agostina-barello-5b9059177/)](https://www.linkedin.com/in/agostina-barello-5b9059177/)
+ [![Linkedin: agosbarello](https://img.shields.io/badge/-AgosBarello-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/agostina-barello-5b9059177/)](https://www.linkedin.com/in/agostina-barello)
  
 
 
