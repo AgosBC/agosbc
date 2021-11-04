@@ -3,7 +3,7 @@
 
 
 - :computer: Technologies I use: Java, Hibernate, SpringBoot, maven, SQL
-- 🌱 I’m currently .NET
+- 🌱 I’m currently learning C# .NET
 - :book: I'm self-taught person with a great deal of hobbies
 - :sparkling_heart: beside technology I love books, photography and design.
 - :argentina: Buenos Aires
